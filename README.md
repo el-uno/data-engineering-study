@@ -22,7 +22,7 @@ Master the fundamentals of data engineering by building an end-to-end data pipel
 <a href="https://datatalks.club/faq/data-engineering-zoomcamp.html">FAQ</a>
 </p>
 
-## How to Enroll
+## How to Enrol
 
 ### 2026 Cohort
 - **Start Date**: 12 January 2026
@@ -114,7 +114,7 @@ No prior data engineering experience is necessary.
 ### **Getting Help on Slack**
 Join the [`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG) channel on [DataTalks.Club Slack](https://datatalks.club/slack.html) for discussions, troubleshooting, and networking.
 
-To keep discussions organized:
+To keep discussions organised:
 - Follow [our guidelines](asking-questions.md) when posting questions.
 - Review the [community guidelines](https://datatalks.club/slack/guidelines.html).
 
@@ -135,7 +135,7 @@ Past instructors:
 - [Luis Oliveira](https://www.linkedin.com/in/lgsoliveira/)
 
 ## Sponsors & Supporters
-A special thanks to our course sponsors for making this initiative possible!
+Special appreciation to our esteemed course sponsors for making this initiative possible!
 
 <p align="center">
   <a href="https://kestra.io/">
